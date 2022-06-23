@@ -552,25 +552,25 @@ h1, h2, h3, h4, h5 ,h6 {
 }
 
 .fb {
-    background: url('images/socials/fb.png') no-repeat;
+    background: url('/images/socials/fb.png') no-repeat;
     margin-right: 25px;
     width: 40px;
     height: 40px;
 }
 
 .twt {
-    background: url('images/socials/twt.png') no-repeat;
+    background: url('/images/socials/twt.png') no-repeat;
     margin-right: 25px;
     width: 40px;
     height: 40px;
 }
 
 .fb:hover {
-    background: url('images/socials/socialshover/fb.png') no-repeat;
+    background: url('/images/socials/socialshover/fb.png') no-repeat;
 }
 
 .twt:hover {
-    background: url('images/socials/socialshover/tw.png') no-repeat;
+    background: url('/images/socials/socialshover/tw.png') no-repeat;
 }
 
 .animated {
